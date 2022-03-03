@@ -1,1 +1,2 @@
-#!/bin/bash chown u+x hello
+#!/bin/bash
+chown u+x hello
